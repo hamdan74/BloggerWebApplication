@@ -88,17 +88,4 @@ For more look in snapshots.<br />
 	<a href="https://www.instagram.com/shujaurrahman_/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
   </p>
 
-Website Developed by<br />
-- Shuja ur Rahman <br />
- 📫Reach me: **shujaurrehman210@gmail.com**<br />
- 👨‍💻check out my portfolio at:[shujaurrahman.me](https://shujaurrahman.me/)<br />
- 
- - Mohd Faheem Ahmad<br />
-  📫Reach me:**mohdfaheemahmad5@gmail.com**<br />
-   👨‍[Faheem Gitub Profile] (https://github.com/fffaheem)
-
-
-![with-coffee](https://img.shields.io/badge/made%20with-%E2%98%95%EF%B8%8F%20coffee-yellow.svg)
-![with-love](https://img.shields.io/badge/made%20with-%F0%9F%92%8C-red.svg)
-
 
